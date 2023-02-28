@@ -3,10 +3,10 @@
 ### <div align="center">I'm Matt, a full-time full-stack software engineer 👨‍💻 </div>  
   
 
-- 🌱 I’m currently learning TypeScript and Next.js  
+🌱 I’m currently learning TypeScript and Next.js  
   
 
-- ⚡ Fun fact: I used to teach English Literature and I have camped for more than two years of my life!  
+⚡ Fun fact: I used to teach English Literature and I have camped for more than two years of my life!  
   
 
 <br/>  
